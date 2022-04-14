@@ -1,0 +1,3 @@
+if (confirm("Remember that you are Awsome <3")) { // display a confirm box that you are awesome Dr, GMC 
+    alert("You are awesome!"); // display an alert box that you are awesome
+}
