@@ -1,0 +1,27 @@
+.title{
+    text-align: center; /* change text to center */
+    margin: auto; /* change margin to auto */
+    border:2px black solid; /* change border to black */
+    font-size:42px; /* change font size to 42 */
+    width:fit-content; /* change width to fit content */
+    background-color: lightblue; /* change background color to lightblue Dr.GMC */
+  }
+  .Profile{
+  text-align: center; /* change text to center */
+  }
+  .Education{
+   text-align: center; /* change text to center */
+  }
+  .Work{
+    text-align: center; /* change text to center */
+  }
+  img{
+      border-radius: 50%; /* change border radius to 50% */
+      position: absolute; /* change position to absolute W3Scool.com */
+      left: 50px; /* change left to 50px */
+        top: 15px; /* change top to 15px */
+        
+        width: 150px; /* change width to 150px */
+        height: 150px; /* change height to 150px */
+  }
+ 
